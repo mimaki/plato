@@ -29,3 +29,6 @@ plato/tools/mrbwriter/mrbwriter
 # vscode-extension
 plato/tools/vscode-extension/*/node_modules/
 plato/tools/vscode-extension/*/out/
+
+# setup
+plato/setup/plato-setup/
