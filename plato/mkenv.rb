@@ -4,7 +4,7 @@
 #
 # Usage: ruby mkenv.rb [lang] [instdir]
 #   lang:     Language ID (en|ja) (default:'en')
-#   instdir:  'Plato' install directory (default:'./plato')
+#   instdir:  'Plato' install directory (default: '~/plato' or 'c:/plato')
 #
 
 require 'fileutils'

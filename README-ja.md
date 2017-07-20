@@ -30,7 +30,7 @@ Platoは組込みシステム向けのmrubyアプリケーションフレーム�
 
 ```bash
 $ cd <作業ディレクトリ>
-$ git clone --recursive https://github.com/mruby-plato/mruby-plato.git
+$ git clone --recursive https://github.com/mruby-plato/plato.git
 ```
 
 ## 2. Plato環境のセットアップ
